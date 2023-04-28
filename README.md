@@ -5,7 +5,7 @@ The app is designed to accept files from the user, which are then uploaded to th
 
 Using NodeJS allows for the app to handle multiple requests at once and provides an efficient way to handle file uploads and downloads. Cloudmersive API provides a reliable and scalable solution for file conversion, which can handle a wide variety of file formats. Together, these technologies can be used to build a robust PDF converter app.
 
-# Installation Guide
+## Installation Guide
 1. Clone the Repo
 2. Install NODE on your machine 
 3. Create a Cloudmersive Account
@@ -13,7 +13,8 @@ Using NodeJS allows for the app to handle multiple requests at once and provides
 5. run the command "npm start" 
 6. If successful you should listen on port 5000  
 
-Thanks 
+### Special Thanks 
+Special thanks to @ahkohd for helping out
 
-# Demo Link
+## Demo Link
 https://pdf-converter.herokuapp.com/
