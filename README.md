@@ -14,7 +14,7 @@ Using NodeJS allows for the app to handle multiple requests at once and provides
 6. If successful you should listen on port 5000  
 
 ### Special Thanks 
-Special thanks to @github/ahkohd for helping out
+Special thanks to https://github.com/ahkohd [Ahkohd] for helping out
 
 ## Demo Link
 https://pdf-converter.herokuapp.com/
