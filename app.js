@@ -14,7 +14,7 @@ const CloudmersiveConvertApiClient = require('cloudmersive-convert-api-client');
 const request = require('request');
 
 var defaultClient = CloudmersiveConvertApiClient.ApiClient.instance;
-// Configure API key authorization: Apikey
+// Configure API key authorization: Api key, Replace with your API Key 
 var Apikey = defaultClient.authentications['Apikey'];
 Apikey.apiKey = '40041bc0-e40f-4492-8ced-3a296f0f44cf';
 
